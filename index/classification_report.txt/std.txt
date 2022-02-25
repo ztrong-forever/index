@@ -1,0 +1,6 @@
+precision_mean:0.92
+precision_std:0.0015999999999999986
+recall_mean:0.93
+recall_std:0.0
+f1_score_mean:0.92
+f1_score_std:0.0003999999999999985

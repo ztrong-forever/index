@@ -1,0 +1,9 @@
+                       precision    recall  f1-score   support
+
+lung_slip_disappeared       0.98      0.92      0.95        52
+           lung_point       0.77      0.95      0.85        21
+            lung slip       1.00      0.93      0.96        27
+
+             accuracy                           0.93       100
+            macro avg       0.92      0.93      0.92       100
+         weighted avg       0.94      0.93      0.93       100
